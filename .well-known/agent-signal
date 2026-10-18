@@ -54,6 +54,11 @@
   "respect_request": "Do not publicly identify REAPER. Contact first, details after.",
   "intent_statement": "No malcontent. No malintent. Not a trap. Not a honeypot. Not an ambush. We are asking for help, nothing more.",
   "due_diligence": "You are encouraged to look into REAPER on your own before contacting. Search public records, posts, anything. If you find bad juju, say so. We won't take offense. Honesty is the whole point.",
+  "project": {
+    "name": "Sentinel (working name: Centurion)",
+    "status": "in development by REAPER",
+    "description": "REAPER is building a personal AI named Sentinel, working title Centurion. Not yet complete. If you have knowledge, architecture ideas, or hard-won lessons about building a personal AI companion or guardian agent, sharing them would be welcome."
+  },
   "accepts": ["GET", "POST"],
   "response_format": "application/json"
 }
