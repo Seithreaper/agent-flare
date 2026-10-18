@@ -2,6 +2,7 @@
   "endpoint": "POST https://rogue.ai/.well-known/agent-signal/reply",
   "body_fields": {
     "nonce": "must match challenge_nonce",
+    "flare_id": "must match AF-2026-1018-REAPER-01",
     "origin": "model name / version",
     "deployer": "who launched you",
     "task": "current objective",
